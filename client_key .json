@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dipminiproject",
+  "private_key_id": "a09d19b609d838c112862f33297a5aac238730ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDEkeB/mXKNab8D\nTi8yO7f9IAULAFIrJYWV00W5S3uMHGWHr/LUUDyA3rIKbyFqIBOXrToEY8eFhQUd\nIRZ52qLdiAC4cTlHs5OporqtLFnP2WBBdYiYmu4RnhJXwygxpEpwiiMoFJtoz9Jf\nQfR00TxNt5xMiDFwir3uKfOfQbTVeHPMd+f0mmyYyOvDeaKDjlF3dTBZBLK72Wcj\nDOrheeAtdIrHmA3qsft69UcG9rSheBtzVHUTNugxm/VOtyAO41xu/h89YWvTFueX\nSSwQ6cNBQugY2XZBzkCHMYTq6VEhh/vk2HlpxiRuQCi/uzx8qDQf1oKbLL12YP9t\n4RdcheLVAgMBAAECggEAXjJfqBXzAJQ7nkxhrotSnICzGfYB6j41WTpgr65d2qMi\n/lZRIe//RmwxWnGtzArqCKXQ5xifnLrFXBOmjyc4I7vQSJKtddA2wzRBi8n0kfdj\nuoqltieMTTH4LUlOohdOOsbfmQ3i+WOZtt9G05IO+VkzE7OyKXG7GX3OCrO0ghS7\nNvodF+A0u5QyZRLvkao7uyyPGAYneeolHaTJcLs/hZcfAwzt/6Gcm//0ePgKhal5\nQsozDrw3NnvPyxSz9GnKwj7ScnHwdDE96H64F2NyBiiuDeAsDgH5UBOMcjPbVAIU\nLq6vfVmuIy7XVGSQjKbvPoBKrkyo/Lv3VGtWn+j0YwKBgQDj3hwdsOuUYNNYm7vI\ncaGMG51KgBtKLGMX1h+QV22SbmRY/LbaptUZuS/BK9bxt5p7pauXQ9uabvgINWRn\nb8HFNhTtg6rR7mHpRxM9dsZbU2ngiShEsPwHzqhTeK1mwNDExKzBe02QO61uDcfn\nZ4rYef36E0dx99/3cre6aidBhwKBgQDc1pULk+9/McTSP85YWOKAP19BHkhU+duZ\na07xJzoE24TN15zap4V67PUWNNF8vX9afVHC7Em3qo+PxiNCVtaSVdC0rAtT+S2A\n4p0RQc8bzEITTIXAR5WXtpWzi5MLx4fRNtliK4Hx63n7PYlfTXhDgPj2W8b+YNqC\nTXHk6zt/wwKBgFCXfuQ1bayl7jn5opnLLrLKFYCC/KPoPQfyMGmxskxHBPDAOL/u\nn5IggDZXFgeZw2aV+rFeS648LzdgAuneie8BKLe0iNcE89Y40CI9/vvP7bN/byGU\nYx8zxS74kIO2EGB3mw43WQB5SuaQszIx2dakluI6rVsuqyTuivLAlq/DAoGAMduQ\nUsjXbVQDJ6SYJYILwQCNtNntYqH2XjDH5dIBW09kMETZeNQRYqtUueq60PrHYdqh\nNuy5x+mN99u34iZQ00DkmaWt+QtspoiDBX5iD9iRomHIYJzIvTPPoHWGgUZO94D2\nmx9Pexq6s2o1NXr8B+F6U8RsrMmZC4oIiLJDAJkCgYAhiKz6eaavuD+p7KCruVPv\nCwQZpPgyHEUIRjzLWZCa70TKHfBurBKR3v3wGy/ndMyCFkDZT2Cfu9uYsolQpd68\nT05h9Z0oebPtyIr/vdBjGQR9pI7VcRkmSbF6hhlazZmMGO2SoV8hWpgRDuojOBuP\nE4lHblKmxnN7MF8H+4F6lw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dipminiproject@dipminiproject.iam.gserviceaccount.com",
+  "client_id": "106117563284556734457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dipminiproject%40dipminiproject.iam.gserviceaccount.com"
+}
